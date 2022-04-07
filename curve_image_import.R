@@ -1,7 +1,7 @@
 #### After Image manipulation using ImageMagick : conversion of images to text format ####
 #### Prerequisites ####
 setwd("directory/of/text/files")
-source("http://www.isem.univ-montp2.fr/blogs.dir/recherche/files/2012/01/Rfunctions1.txt")
+source("https://www.researchgate.net/profile/Julien-Claude/publication/350439729_Rfunctions1_R_functions_for_geometric_morphometrics_developed_in_Claude_J_2008_Morphometrics_with_R/data/605f5625a6fdccbfea0f436a/Rfunctions1.txt")
 library(MASS)
 library(Momocs)
 
